@@ -857,6 +857,19 @@ http://www.templatemo.com/tm-515-eatery
     color: #ffffff;
   }
 
+/*---------------------------------------
+     RESPONSIVE STYLES              
+  -----------------------------------------*/
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
 
 
   /*---------------------------------------
@@ -1007,4 +1020,5 @@ http://www.templatemo.com/tm-515-eatery
       top: 60%;
     }
   }
+
 
