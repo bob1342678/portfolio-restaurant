@@ -645,7 +645,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   #testimonial {
-    background: url('../images/testimonial-bg.jpg') center center no-repeat;
+    background: url('../images/test1.jpeg') top  no-repeat;
     background-size: cover;
   }
 
@@ -864,10 +864,15 @@ http://www.templatemo.com/tm-515-eatery
 .flex-container{
   display: flex;
   justify-content: center;
-  flex-direction: column;
   align-items: center;
 }
+.column{
+  flex-direction: column;
+}
 
+.wrap{
+  flex-wrap: wrap;
+}
 
 
 
